@@ -1,0 +1,14 @@
+torch>=2.0.0
+torchvision
+numpy
+matplotlib
+tqdm
+Pillow
+transformers>=4.31.0
+monai
+opencv-python
+wandb
+scipy
+pydensecrf
+argparse
+shutil
